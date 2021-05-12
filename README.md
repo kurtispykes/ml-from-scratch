@@ -11,3 +11,7 @@ Detailing Machine Learning algorithms from Scratch (See Link for Medium Blog pos
 * Support Vector Machine - https://bit.ly/320LlMb
 
 * K-Nearest Neighbors - https://bit.ly/2GxaplQ
+
+* PCA  - https://bit.ly/3uLC5HO
+
+* Naive Bayes - https://bit.ly/33BaNbb
